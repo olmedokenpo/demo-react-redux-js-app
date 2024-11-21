@@ -1,4 +1,4 @@
-## NOTA: esta aplicacion se ha construido a partir del siguiente video
+## NOTE: this application has been built from the following video
 
 ### https://www.youtube.com/watch?v=c0MpQeOKc-4
 
