@@ -1,4 +1,4 @@
-# NOTA: esta aplicacion se ha cosntruido a partir del siguiente video
+## NOTA: esta aplicacion se ha construido a partir del siguiente video
 
 ### https://www.youtube.com/watch?v=c0MpQeOKc-4
 
